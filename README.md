@@ -1,2 +1,2 @@
-# z0r
-Just a repo
+# Welcome
+This is only a repo
