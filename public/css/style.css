@@ -1,5 +1,9 @@
 @charset "UTF-8";
 
+.masthead-refresh .js-stuck {
+    position: static !important;
+}
+
 .overlay-form .modal-container {
     max-width: 100%;
 }
