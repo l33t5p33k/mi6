@@ -1,4 +1,9 @@
 @charset "UTF-8";
-article.pricing-golion .pricing-header-wrap {
-    background: #78a300;
+
+.overlay-form .modal-container {
+    max-width: 100%;
+}
+
+#get-updates-form.form-enterprise {
+    max-width: 100%;
 }
