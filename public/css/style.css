@@ -11,3 +11,7 @@
 #get-updates-form.form-enterprise {
     max-width: 100%;
 }
+
+#get-updates-form.form-enterprise li {
+    margin-bottom: 0;
+}
